@@ -117,36 +117,46 @@
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PPRDIR/../../../../../Desktop/tetris_uart/uec2_projekt/vivado/UEC2_projekt_tetris/MTM_UEC_lab2_6_verilog/MTM_UEC_lab2_6_verilog/list_ch04_11_mod_m_counter.v">
+      <File Path="$PSRCDIR/sources_1/imports/MTM_UEC_lab2_6_verilog/list_ch04_11_mod_m_counter.v">
         <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../Desktop/tetris_uart/uec2_projekt/vivado/UEC2_projekt_tetris/MTM_UEC_lab2_6_verilog/MTM_UEC_lab2_6_verilog/list_ch04_11_mod_m_counter.v"/>
+          <Attr Name="ImportTime" Val="1457464946"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PPRDIR/../../../../../Desktop/tetris_uart/uec2_projekt/vivado/UEC2_projekt_tetris/MTM_UEC_lab2_6_verilog/MTM_UEC_lab2_6_verilog/list_ch04_20_fifo.v">
+      <File Path="$PSRCDIR/sources_1/imports/MTM_UEC_lab2_6_verilog/list_ch04_20_fifo.v">
         <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../Desktop/tetris_uart/uec2_projekt/vivado/UEC2_projekt_tetris/MTM_UEC_lab2_6_verilog/MTM_UEC_lab2_6_verilog/list_ch04_20_fifo.v"/>
+          <Attr Name="ImportTime" Val="1457464946"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PPRDIR/../../../../../Desktop/tetris_uart/uec2_projekt/vivado/UEC2_projekt_tetris/MTM_UEC_lab2_6_verilog/MTM_UEC_lab2_6_verilog/list_ch08_01_uart_rx.v">
+      <File Path="$PSRCDIR/sources_1/imports/MTM_UEC_lab2_6_verilog/list_ch08_01_uart_rx.v">
         <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../Desktop/tetris_uart/uec2_projekt/vivado/UEC2_projekt_tetris/MTM_UEC_lab2_6_verilog/MTM_UEC_lab2_6_verilog/list_ch08_01_uart_rx.v"/>
+          <Attr Name="ImportTime" Val="1457464947"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PPRDIR/../../../../../Desktop/tetris_uart/uec2_projekt/vivado/UEC2_projekt_tetris/MTM_UEC_lab2_6_verilog/MTM_UEC_lab2_6_verilog/list_ch08_03_uart_tx.v">
+      <File Path="$PSRCDIR/sources_1/imports/MTM_UEC_lab2_6_verilog/list_ch08_03_uart_tx.v">
         <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../Desktop/tetris_uart/uec2_projekt/vivado/UEC2_projekt_tetris/MTM_UEC_lab2_6_verilog/MTM_UEC_lab2_6_verilog/list_ch08_03_uart_tx.v"/>
+          <Attr Name="ImportTime" Val="1457464947"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
         </FileInfo>
       </File>
-      <File Path="$PPRDIR/../../../../../Desktop/tetris_uart/uec2_projekt/vivado/UEC2_projekt_tetris/MTM_UEC_lab2_6_verilog/MTM_UEC_lab2_6_verilog/list_ch08_04_uart.v">
+      <File Path="$PSRCDIR/sources_1/imports/MTM_UEC_lab2_6_verilog/list_ch08_04_uart.v">
         <FileInfo>
+          <Attr Name="ImportPath" Val="$PPRDIR/../../../../../Desktop/tetris_uart/uec2_projekt/vivado/UEC2_projekt_tetris/MTM_UEC_lab2_6_verilog/MTM_UEC_lab2_6_verilog/list_ch08_04_uart.v"/>
+          <Attr Name="ImportTime" Val="1600299501"/>
           <Attr Name="UsedIn" Val="synthesis"/>
           <Attr Name="UsedIn" Val="implementation"/>
           <Attr Name="UsedIn" Val="simulation"/>
